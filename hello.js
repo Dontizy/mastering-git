@@ -1,1 +1,1 @@
-console.log("Hello, Git")
+console.log("Commited all files to git")

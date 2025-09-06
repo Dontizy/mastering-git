@@ -1,1 +1,1 @@
-console.log("Commited all files to git")
+console.log("Scream was added to the file tree")
